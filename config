@@ -1,0 +1,6 @@
+path: C:\Users\Admin\Desktop\data\train
+train:
+val:
+
+names:
+    0: number_plate

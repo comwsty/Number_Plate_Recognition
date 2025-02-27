@@ -1,0 +1,6 @@
+path: C:\Users\Admin\Desktop\dataset
+train: C:\Users\Admin\Desktop\dataset\data\train\images
+val: C:\Users\Admin\Desktop\dataset\data\valid\images
+
+names:
+  0: number
